@@ -1,2 +1,5 @@
 *.ms14 linguist-detectable=true
 *.ms14 linguist-documentation=false
+
+*.md linguist-detectable=true
+*.md linguist-documentation=false
